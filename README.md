@@ -6,7 +6,7 @@ Here’s a bit more about me:
 
 ## 🔍 **What I Do:**
 - **Data Analytics**: I love working with data to uncover trends and actionable insights.
-- **Excel, Tableau, SQL**: These are my go-to tools for data analysis, visualization, and database management.
+- **Excel, Tableau, Power BI, SQL**: These are my go-to tools for data analysis, visualization, and database management.
 - **Storytelling with Data**: Crafting data-driven stories that help stakeholders make informed decisions.
 
 ## 🎮 **What I Enjoy Outside of Work:**
